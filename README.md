@@ -13,26 +13,6 @@ The system simulates vehicle movement, tracks traffic conditions, secures commun
 
 ---
 
-## 📂 Project Structure
-
-V2V-using-blockchain-and-LSTM-Technology_Major-Project/
-│
-├── 📁 Project/
-│   ├── 📄 project.py                
-│   └── 📓 ML.ipynb                  
-│
-├── 📁 results/                    
-│   ├── 📊 simulation_console.png
-│   ├── 📈 prediction_sample_Loss_vs_epochs.png
-│   └── 📈 prediction_sample_Accuracy_vs_epochs.png
-│
-├── 📁 data/                         
-│   └── 📄 vehicle_0x110.csv       
-│
-└── 📄 README.md
-
----
-
 ## 📊 Results & Visualizations
 
 ### Simulation Result Screenshot
