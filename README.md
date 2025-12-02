@@ -75,9 +75,9 @@ Predicts the best route based on:
 ## 📊 Results Visualization
 
 ### Simulation Console Output
-![Simulation Console](simulation_console.png)
+![Simulation Console](Results/simulation_console.png)
 
 ### Model Training Performance
 | Loss vs Epochs | Accuracy vs Epochs |
 |----------------|-------------------|
-| ![Loss Plot](prediction_sample_Loss_vs_epochs.png) | ![Accuracy Plot](prediction_sample_Accuracy_vs_epochs.png) |
+| ![Loss Plot](Results/prediction_sample_Loss_vs_epochs.png) | ![Accuracy Plot](Results/prediction_sample_Accuracy_vs_epochs.png) |
