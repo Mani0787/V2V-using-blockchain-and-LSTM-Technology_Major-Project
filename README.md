@@ -86,4 +86,4 @@ Predicts the best route based on:
 
 ## 👨‍💻 Author
 * **Thaduri Manikanth**
-*Major Project — V2V using Blockchain & LSTM*
+* *Major Project — V2V using Blockchain & LSTM*
