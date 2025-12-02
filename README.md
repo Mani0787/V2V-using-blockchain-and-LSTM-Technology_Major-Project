@@ -26,6 +26,22 @@ V2V-using-blockchain-and-LSTM-Technology_Major-Project/
 
 ---
 
+## 📊 Results & Visualizations
+
+### Simulation Result Screenshot
+![Simulation Data](Results/simulation_data.png)
+
+### Accuracy vs Epochs  
+![Accuracy Plot](Results/prediction_sample_Accuracy_vs_epochs.png)
+
+### Loss vs Epochs  
+![Loss Plot](Results/prediction_sample_Loss_vs_epochs.png)
+
+### Prediction Output  
+![Console Output](Results/simulation_console.png)
+
+---
+
 ## 🧠 Key Features
 ### 🔐 Blockchain-Based V2V Security
 
@@ -71,13 +87,3 @@ Predicts the best route based on:
 ## 👨‍💻 Author
 * **Thaduri Manikanth**
 **Major Project — V2V using Blockchain & LSTM**
-
-## 📊 Results Visualization
-
-### Simulation Console Output
-![Simulation Console](Results/simulation_console.png)
-
-### Model Training Performance
-| Loss vs Epochs | Accuracy vs Epochs |
-|----------------|-------------------|
-| ![Loss Plot](Results/prediction_sample_Loss_vs_epochs.png) | ![Accuracy Plot](Results/prediction_sample_Accuracy_vs_epochs.png) |
